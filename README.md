@@ -2,7 +2,7 @@
  
  I'm **Akshay Ankush Shelar** working at [Intellitek.ai](https://intellitek.ai/). I specialize in modern web technologies such as HTML5, CSS3, JavaScript, Angular, Node.js, ReactJS, NestJS, TypeScript, Bootstrap. I also have expertise in SQL, MongoDB, and Web Accessibility. With strong debugging skills and a passion for continuous learning, I consistently deliver high-quality projects on time. My problem-solving skills, positive mindset, and collaborative approach contribute to the success of every project.
  
-[![Linkedin Badge](https://img.shields.io/badge/-abhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav/)](https://www.linkedin.com/in/akshay-shelar5151)
+[![Linkedin Badge](https://img.shields.io/badge/-Akshay_Shelar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-shelar5151)](https://www.linkedin.com/in/akshay-shelar5151)
 [![Gmail Badge](https://img.shields.io/badge/-akshayshelar5151@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayshelar5151@gmail.com)](mailto:akshayshelar5151@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github)](https://akshay5151.github.io/portfolio/)
  
